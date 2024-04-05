@@ -30,5 +30,4 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 1
+          plugin_leetcode_sections: solved
